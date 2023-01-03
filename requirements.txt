@@ -1,4 +1,4 @@
 ipykernel
-git+https://git@github.com/ElrondNetwork/sdk-erdpy-core.git@v0.3.0#egg=erdpy_core
-git+https://git@github.com/ElrondNetwork/sdk-erdpy-wallet.git@v0.2.1#egg=erdpy_wallet
-git+https://git@github.com/ElrondNetwork/sdk-erdpy-network-providers.git@v0.5.0#egg=erdpy_network
+mx-sdk-erdpy-core==0.3.0
+mx-sdk-erdpy-wallet==0.2.2
+mx-sdk-erdpy-network-providers==0.6.1
