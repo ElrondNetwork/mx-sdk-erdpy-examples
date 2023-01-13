@@ -1,4 +1,4 @@
 ipykernel
-mx-sdk-erdpy-core==0.3.0
-mx-sdk-erdpy-wallet==0.2.2
-mx-sdk-erdpy-network-providers==0.6.1
+multiversx-sdk-core==0.3.2
+multiversx-sdk-wallet==0.4.1
+multiversx-sdk-network-providers==0.6.4

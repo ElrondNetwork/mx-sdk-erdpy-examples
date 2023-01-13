@@ -1,6 +1,6 @@
-# sdk-erdpy-examples
+# mx-sdk-py-examples
 
-Examples of using **erdpy** and its satellite packages.
+Examples of using the **sdk-py** of MultiversX.
 
 ## Setup
 
@@ -9,8 +9,8 @@ Examples of using **erdpy** and its satellite packages.
 Create a virtual environment and install the dependencies:
 
 ```
-python3 -m venv ./.venv
-source ./.venv/bin/activate
+python3 -m venv ./venv
+source ./venv/bin/activate
 pip install -r ./requirements.txt --upgrade
 ```
 
