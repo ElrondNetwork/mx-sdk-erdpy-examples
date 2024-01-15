@@ -1,4 +1,4 @@
 ipykernel
-multiversx-sdk-core==0.7.*
-multiversx-sdk-wallet==0.8.*
-multiversx-sdk-network-providers==0.12.*
+multiversx-sdk-core==0.8.*
+multiversx-sdk-wallet==0.9.*
+multiversx-sdk-network-providers==0.13.*
